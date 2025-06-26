@@ -2,7 +2,7 @@
 
 class Program
 {
-    static int[,] board = new int[6, 6];
+    static int[,] board = new int[4, 4];
     static Random random = new Random();
     static int score = 0;
     static bool gameOver = false;
